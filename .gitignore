@@ -1,3 +1,9 @@
+#ignore VS Studio files
+.vs*
+*.vcx*
+*.sln
+x64
+x86
 # Prerequisites
 *.d
 
